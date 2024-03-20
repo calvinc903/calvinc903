@@ -6,9 +6,7 @@ Major: Computer Science 💻
 ### Languages
 | Langauge | Relevant Projects |
 | ----------- | ----------- |
-| Java | - a
-         - b
-         - b |
+| Java | <ul><li>A<\li><li>B<\li><li>C<\li>
 <!--
 To add:
 - I'm curently working on
