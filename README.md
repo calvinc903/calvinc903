@@ -1,5 +1,5 @@
 ### About Me! 👋
-Junior @ Georgia Institute of Technology 🐝  
+Georgia Institute of Technology 2025 🐝  
 Major: Computer Science 💻
 
 <!--
