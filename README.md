@@ -4,7 +4,10 @@ Major: Computer Science 💻
 
 ## Skills
 ### Languages
-
+| Langauge | Relevant Projects |
+| Java | - a
+         - b
+         - b |
 <!--
 To add:
 - I'm curently working on
