@@ -5,6 +5,7 @@ Major: Computer Science 💻
 ## Skills
 ### Languages
 | Langauge | Relevant Projects |
+| ----------- | ----------- |
 | Java | - a
          - b
          - b |
