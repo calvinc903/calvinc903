@@ -1,6 +1,6 @@
 ### About Me! 👋
 Junior @ Georgia Institute of Technology 🐝  
-Computer Science
+Major: Computer Science 💻
 
 <!--
 To add:
