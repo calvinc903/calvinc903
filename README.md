@@ -1,4 +1,6 @@
 ### About Me! 👋
+Junior @ Georgia Institute of Technology 🐝
+Computer Science
 
 <!--
 To add:
