@@ -3,7 +3,7 @@ Georgia Institute of Technology 2025 🐝
 Major: Computer Science 💻  
 
 ## Skills
-####
+### Languages
 
 <!--
 To add:
