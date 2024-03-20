@@ -1,6 +1,9 @@
-### About Me! 👋
+## About Me! 👋
 Georgia Institute of Technology 2025 🐝  
-Major: Computer Science 💻
+Major: Computer Science 💻  
+
+## Skills
+####
 
 <!--
 To add:
