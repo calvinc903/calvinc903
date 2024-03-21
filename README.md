@@ -4,7 +4,8 @@ Major: Computer Science 💻
 
 ## Skills
 ### Languages
- - Java
+ - ![image](https://github.com/calvinc903/calvinc903/assets/89477526/b10d3f4c-8ca1-44cb-944b-32888603d5b0)
+
  - JavaScript
  - HTML
  - C
