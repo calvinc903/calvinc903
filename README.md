@@ -4,9 +4,11 @@ Major: Computer Science 💻
 
 ## Skills
 ### Languages
-| Langauge | Relevant Projects |
-| ----------- | ----------- |
-| Java | <ul><li>A</li><li>B</li><li>C</li></ul> |
+ - Java
+ - JavaScript
+ - HTML
+ - C
+ - C++
 <!--
 To add:
 - I'm curently working on
@@ -17,7 +19,9 @@ To add:
 - school
 - grad year
 
-
+| Langauge | Relevant Projects |
+| ----------- | ----------- |
+| Java | <ul><li>A</li><li>B</li><li>C</li></ul> |
 
 
 
