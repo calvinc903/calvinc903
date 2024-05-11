@@ -2,10 +2,11 @@
 Georgia Institute of Technology 2025 🐝  
 Major: Computer Science 💻  
 
+<!--
 ## Skills
 ### Languages
 Java, Python, JavaScript, C, C++
-<!--
+
 To add:
 - I'm curently working on
 - check out my personal website
