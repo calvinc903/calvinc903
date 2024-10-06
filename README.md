@@ -1,5 +1,5 @@
 ## About Me! 👋
-Georgia Institute of Technology 2025 🐝  
+Georgia Institute of Technology 2026 🐝  
 Major: Computer Science 💻  
 
 <!--
