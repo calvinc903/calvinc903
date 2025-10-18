@@ -1,5 +1,5 @@
 ## About Me! 👋
-Georgia Institute of Technology 2026 🐝  
+Georgia Institute of Technology May 2027 🐝  
 Major: Computer Science 💻  
 
 <!--
